@@ -14,6 +14,7 @@ import org.openqa.selenium.Platform;
 import org.testng.annotations.*;
 
 public class TC02_name
+
 {
 	static WebDriver driver;
 

@@ -10,6 +10,7 @@ public class TC04_linkText
 	static WebDriver driver;
 	
 	 @Test
+
 	  public void testTC02() throws Exception {
 		 
 		driver = TestBrowser.OpenChromeBrowser();
